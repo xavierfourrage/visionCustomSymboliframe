@@ -41,7 +41,7 @@
         if(!data){
             return;
         }
-        scope.Value = data.Value;
+        scope.value = data.Value;
               
     }
 
